@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+                "file": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140014 Grokking DSA - Types of Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
+                "file": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140014 Grokking DSA - Types of Data Structures.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+                "file": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140014 Grokking DSA - Types of Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+                "file": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140014 Grokking DSA - Types of Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +208,19 @@
   },
   "active": "9675c7bcc1eb74bc",
   "lastOpenFiles": [
+    "05 - Fleeting/202404140603 Interview introduction prep.md",
+    "06 - Daily/20240408.md",
+    "06 - Daily/20240409.md",
+    "06 - Daily/20240412.md",
+    "06 - Daily/20240411.md",
+    "05 - Fleeting/202404080154 What is a pointer?.md",
+    "05 - Fleeting/202404080320 Why use pointers?.md",
+    "05 - Fleeting/202404080207 Zettelkasten brief.md",
+    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140013 Grokking DSA - Understanding Data Structures.md",
+    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140014 Grokking DSA - Types of Data Structures.md",
+    "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md",
+    "02 - Areas/023 - Semester/BIDL/202404081040 BIDL-A3-PDF.pdf",
+    "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
     "07 - Archives/072 - Old Notes/BIU/CI-CD AWS - Brief.md",
     "07 - Archives/072 - Old Notes/BIU/CI-CD AWS - Detailed.md",
     "07 - Archives/072 - Old Notes/BIU/TO-DOs.md",
@@ -217,29 +230,16 @@
     "07 - Archives/072 - Old Notes/BIU/Glue jobs - CI-CD.md",
     "07 - Archives/072 - Old Notes/BIU/Deploy lambda.md",
     "07 - Archives/072 - Old Notes/Bear/202404071844 Old Terminal Colors.md",
-    "05 - Fleeting/202404080320 Why use pointers?.md",
     "05 - Fleeting/202404140439 List of books to read.md",
     "05 - Fleeting/202404090255 What is a crypto audit?.md",
-    "05 - Fleeting/202404140603 Interview introduction prep.md",
     "04 - Permanent/202404132110 Jobs.md",
     "06 - Daily/20240414.md",
     "07 - Archives/07 - Archives.md",
-    "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md",
-    "06 - Daily/20240413.md",
-    "05 - Fleeting/202404080207 Zettelkasten brief.md",
-    "05 - Fleeting/202404082320 Cool shit about game theory.md",
-    "05 - Fleeting/202004071031 Powerlifting.md",
-    "05 - Fleeting/202404080555 Zettelkasten + PARA System of notetaking.md",
-    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140012 Grokking DSA - Who should take this course?.md",
-    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140013 Grokking DSA - Understanding Data Structures.md",
-    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140016 Grokking DSA - Big O.md",
     "03 - Resources/032 - Courses",
     "03 - Resources/032 - Courses/Grokking DSA/Arrays",
     "03 - Resources/032 - Courses/Grokking DSA/Basics",
-    "03 - Resources/032 - Courses/Grokking System Design/202404140000 Grokking SD - Introduction to system design.md",
     "03 - Resources/032 - Courses/Grokking System Design",
     "03 - Resources/032 - Courses/Grokking DSA",
-    "02 - Areas/023 - Semester/BIDL/202404081040 BIDL-A3-PDF.pdf",
     "01 - Projects/014 - Crypto Grind/Solidity",
     "01 - Projects/014 - Crypto Grind",
     "02 - Areas/025 - Finance",
