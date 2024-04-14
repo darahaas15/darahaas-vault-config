@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"00 - Maps of Content\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5369507
+      }
+    },
+    {
+      "query": "path:\"01 - Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5366249
+      }
+    },
+    {
+      "query": "path:\"02 - Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5551864
+      }
+    },
+    {
+      "query": "path:\"03 - Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4422899
+      }
+    },
+    {
+      "query": "path:\"05 - Fleeting\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193709
+      }
+    },
+    {
+      "query": "path:\"06 - Daily\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14240659
+      }
+    },
+    {
+      "query": "path:\"07 - Archives\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14890590
+      }
+    },
+    {
+      "query": "path:\"99 - Meta\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5330792
+      }
+    },
+    {
+      "query": "path:\"04 - Permanent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9717496
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.11397333333333,
+  "lineSizeMultiplier": 1.00247111111111,
+  "collapse-forces": false,
+  "centerStrength": 0.421034717494894,
+  "repelStrength": 13.9929981522902,
+  "linkStrength": 0.733200427890693,
+  "linkDistance": 166,
+  "scale": 0.1548801065467998,
+  "close": true
+}

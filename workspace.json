@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "4917c9cbfce6d743",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba89771bfa3198d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9675c7bcc1eb74bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a77dfb7e7b0352b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7532f82af88c963",
+        "type": "tabs",
+        "dimension": 70.73170731707317,
+        "children": [
+          {
+            "id": "f518fdf77f5a932d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb81bb7a65f680f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a1c9848e27c4474",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1664f95b7eb58f74",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e01e8a6e7983627d",
+        "type": "tabs",
+        "dimension": 29.268292682926827,
+        "children": [
+          {
+            "id": "e74429be600f3c33",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81d12aee6ea301e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f1a54421e5a77a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd4d0f39c5855a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
+              }
+            }
+          },
+          {
+            "id": "46631626ecaff05b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9dbecd3e6dfa646",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "469e913df324cb84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aece70cabc106c63",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0407b4c9f1c57af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "509ac43053a90ab6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "9675c7bcc1eb74bc",
+  "lastOpenFiles": [
+    "07 - Archives/072 - Old Notes/BIU/CI-CD AWS - Brief.md",
+    "07 - Archives/072 - Old Notes/BIU/CI-CD AWS - Detailed.md",
+    "07 - Archives/072 - Old Notes/BIU/TO-DOs.md",
+    "07 - Archives/072 - Old Notes/BIU/Snippets.md",
+    "07 - Archives/072 - Old Notes/BIU/Orientation Meeting.md",
+    "07 - Archives/072 - Old Notes/BIU/Model Optimization.md",
+    "07 - Archives/072 - Old Notes/BIU/Glue jobs - CI-CD.md",
+    "07 - Archives/072 - Old Notes/BIU/Deploy lambda.md",
+    "07 - Archives/072 - Old Notes/Bear/202404071844 Old Terminal Colors.md",
+    "05 - Fleeting/202404080320 Why use pointers?.md",
+    "05 - Fleeting/202404140439 List of books to read.md",
+    "05 - Fleeting/202404090255 What is a crypto audit?.md",
+    "05 - Fleeting/202404140603 Interview introduction prep.md",
+    "04 - Permanent/202404132110 Jobs.md",
+    "06 - Daily/20240414.md",
+    "07 - Archives/07 - Archives.md",
+    "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md",
+    "06 - Daily/20240413.md",
+    "05 - Fleeting/202404080207 Zettelkasten brief.md",
+    "05 - Fleeting/202404082320 Cool shit about game theory.md",
+    "05 - Fleeting/202004071031 Powerlifting.md",
+    "05 - Fleeting/202404080555 Zettelkasten + PARA System of notetaking.md",
+    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140012 Grokking DSA - Who should take this course?.md",
+    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140013 Grokking DSA - Understanding Data Structures.md",
+    "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140016 Grokking DSA - Big O.md",
+    "03 - Resources/032 - Courses",
+    "03 - Resources/032 - Courses/Grokking DSA/Arrays",
+    "03 - Resources/032 - Courses/Grokking DSA/Basics",
+    "03 - Resources/032 - Courses/Grokking System Design/202404140000 Grokking SD - Introduction to system design.md",
+    "03 - Resources/032 - Courses/Grokking System Design",
+    "03 - Resources/032 - Courses/Grokking DSA",
+    "02 - Areas/023 - Semester/BIDL/202404081040 BIDL-A3-PDF.pdf",
+    "01 - Projects/014 - Crypto Grind/Solidity",
+    "01 - Projects/014 - Crypto Grind",
+    "02 - Areas/025 - Finance",
+    "99 - Meta/Attachments/Images/Pasted image 20240409013748.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408232238.png",
+    "01 - Projects/013 - Personal",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205322.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205636.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205613.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205530.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205523.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205516.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205508.png",
+    "99 - Meta/Attachments/Images/Pasted image 20240408205454.png"
+  ]
+}
