@@ -1,76 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "202404230832 Joins in DBMS",
-      "path": "202404230832 Joins in DBMS.md"
+      "basename": "202404251401 Creative writing A2",
+      "path": "02 - Areas/023 - Semester/Creative Writing/202404251401 Creative writing A2.md"
     },
     {
-      "basename": "202404230843 Outer Join",
-      "path": "202404230843 Outer Join.md"
+      "basename": "20240420",
+      "path": "06 - Daily/20240420.md"
     },
     {
-      "basename": "202404230839 Inner Join",
-      "path": "202404230839 Inner Join.md"
+      "basename": "20240419",
+      "path": "06 - Daily/20240419.md"
     },
     {
-      "basename": "202404230840 Left Join",
-      "path": "202404230840 Left Join.md"
+      "basename": "20240418",
+      "path": "06 - Daily/20240418.md"
     },
     {
-      "basename": "202404230841 Right Join",
-      "path": "202404230841 Right Join.md"
+      "basename": "20240417",
+      "path": "06 - Daily/20240417.md"
     },
     {
-      "basename": "202404230842 Full Join",
-      "path": "202404230842 Full Join.md"
+      "basename": "202404100039 Pokemon Platinum Cheats",
+      "path": "02 - Areas/024 - Games/202404100039 Pokemon Platinum Cheats.md"
+    },
+    {
+      "basename": "202404231028 SQL Sub Queries",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231028 SQL Sub Queries.md"
     },
     {
       "basename": "202404230429 DML",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230429 DML.md"
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230429 DML.md"
     },
     {
-      "basename": "202404230446 Constraints",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230446 Constraints.md"
-    },
-    {
-      "basename": "202404230441 Foreign key",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230441 Foreign key.md"
-    },
-    {
-      "basename": "202404221935 SQL Introduction",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404221935 SQL Introduction.md"
+      "basename": "202404231035 DBMS Course BITS",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231035 DBMS Course BITS.md"
     },
     {
       "basename": "20240423",
       "path": "06 - Daily/20240423.md"
     },
     {
+      "basename": "202404230842 Full Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230842 Full Join.md"
+    },
+    {
+      "basename": "202404230840 Left Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230840 Left Join.md"
+    },
+    {
+      "basename": "202404230839 Inner Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Inner Join.md"
+    },
+    {
       "basename": "202404230428 DQL",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230428 DQL.md"
-    },
-    {
-      "basename": "202404221933 Relational DB",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404221933 Relational DB.md"
-    },
-    {
-      "basename": "202404230440 Primary key",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230440 Primary key.md"
-    },
-    {
-      "basename": "202404230427 DDL",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230427 DDL.md"
-    },
-    {
-      "basename": "202404230431 TCL",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230431 TCL.md"
-    },
-    {
-      "basename": "202404230430 DCL",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404230430 DCL.md"
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230428 DQL.md"
     },
     {
       "basename": "202404221934 Non Relational DB",
-      "path": "02 - Areas/022 - Data Structures/DBMS/202404221934 Non Relational DB.md"
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221934 Non Relational DB.md"
+    },
+    {
+      "basename": "202404071830 linked-list",
+      "path": "02 - Areas/022 - CS Fundamentals/Data Structures/202404071830 linked-list.md"
+    },
+    {
+      "basename": "202404090300 CryptoZombies",
+      "path": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
+    },
+    {
+      "basename": "202404080207 Zettelkasten brief",
+      "path": "05 - Fleeting/202404080207 Zettelkasten brief.md"
+    },
+    {
+      "basename": "202404231019 Unions",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231019 Unions.md"
+    },
+    {
+      "basename": "202404231010 Self join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231010 Self join.md"
+    },
+    {
+      "basename": "202404230841 Right Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230841 Right Join.md"
+    },
+    {
+      "basename": "202404230839 Outer Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Outer Join.md"
+    },
+    {
+      "basename": "202404230832 Joins in DBMS",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230832 Joins in DBMS.md"
+    },
+    {
+      "basename": "202404230446 Constraints",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230446 Constraints.md"
+    },
+    {
+      "basename": "202404221935 SQL Introduction",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221935 SQL Introduction.md"
+    },
+    {
+      "basename": "202404221933 Relational DB",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221933 Relational DB.md"
+    },
+    {
+      "basename": "202404230440 Primary key",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md"
+    },
+    {
+      "basename": "202404230430 DCL",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230430 DCL.md"
+    },
+    {
+      "basename": "202404230427 DDL",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230427 DDL.md"
+    },
+    {
+      "basename": "202404081046 Emerald Nuzlocke",
+      "path": "02 - Areas/024 - Games/Emerald Nuzlocke/202404081046 Emerald Nuzlocke.md"
+    },
+    {
+      "basename": "20240422",
+      "path": "06 - Daily/20240422.md"
+    },
+    {
+      "basename": "202404230441 Foreign key",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230441 Foreign key.md"
+    },
+    {
+      "basename": "202404231408 Views",
+      "path": "202404231408 Views.md"
+    },
+    {
+      "basename": "20240409",
+      "path": "06 - Daily/20240409.md"
+    },
+    {
+      "basename": "20240414",
+      "path": "06 - Daily/20240414.md"
+    },
+    {
+      "basename": "20240421",
+      "path": "06 - Daily/20240421.md"
+    },
+    {
+      "basename": "SQL Notes",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/SQL Notes.pdf"
+    },
+    {
+      "basename": "202404230431 TCL",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230431 TCL.md"
+    },
+    {
+      "basename": "02 - Areas",
+      "path": "02 - Areas/02 - Areas.md"
     },
     {
       "basename": "202404081040 BIDL-A3-PDF",
@@ -83,22 +167,6 @@
     {
       "basename": "202404071235 BIDL-A3",
       "path": "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md"
-    },
-    {
-      "basename": "20240421",
-      "path": "06 - Daily/20240421.md"
-    },
-    {
-      "basename": "20240420",
-      "path": "06 - Daily/20240420.md"
-    },
-    {
-      "basename": "20240419",
-      "path": "06 - Daily/20240419.md"
-    },
-    {
-      "basename": "20240422",
-      "path": "06 - Daily/20240422.md"
     },
     {
       "basename": "202404140012 Grokking DSA - Who should take this course?",
@@ -117,28 +185,8 @@
       "path": "02 - Areas/023 - Semester/Intro to Anthropology/202404092100 Anthro PPT.md"
     },
     {
-      "basename": "202404071830 linked-list",
-      "path": "02 - Areas/022 - Data Structures/202404071830 linked-list.md"
-    },
-    {
       "basename": "06 - Daily",
       "path": "06 - Daily/06 - Daily.md"
-    },
-    {
-      "basename": "20240417",
-      "path": "06 - Daily/20240417.md"
-    },
-    {
-      "basename": "20240418",
-      "path": "06 - Daily/20240418.md"
-    },
-    {
-      "basename": "202404090300 CryptoZombies",
-      "path": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
-    },
-    {
-      "basename": "02 - Areas",
-      "path": "02 - Areas/02 - Areas.md"
     },
     {
       "basename": "202404081038 Post Col Midsem Notes",
@@ -151,54 +199,6 @@
     {
       "basename": "20240415",
       "path": "06 - Daily/20240415.md"
-    },
-    {
-      "basename": "202404071838 Linux on the Razer Blade",
-      "path": "03 - Resources/031 - Documentation/202404071838 Linux on the Razer Blade.md"
-    },
-    {
-      "basename": "202404140016 Grokking DSA - Big O",
-      "path": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140016 Grokking DSA - Big O.md"
-    },
-    {
-      "basename": "20240412",
-      "path": "06 - Daily/20240412.md"
-    },
-    {
-      "basename": "202404140014 Grokking DSA - Types of Data Structures",
-      "path": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140014 Grokking DSA - Types of Data Structures.md"
-    },
-    {
-      "basename": "202404140603 Interview introduction prep",
-      "path": "05 - Fleeting/202404140603 Interview introduction prep.md"
-    },
-    {
-      "basename": "20240408",
-      "path": "06 - Daily/20240408.md"
-    },
-    {
-      "basename": "20240409",
-      "path": "06 - Daily/20240409.md"
-    },
-    {
-      "basename": "20240411",
-      "path": "06 - Daily/20240411.md"
-    },
-    {
-      "basename": "202404080154 What is a pointer?",
-      "path": "05 - Fleeting/202404080154 What is a pointer?.md"
-    },
-    {
-      "basename": "202404080320 Why use pointers?",
-      "path": "05 - Fleeting/202404080320 Why use pointers?.md"
-    },
-    {
-      "basename": "202404080207 Zettelkasten brief",
-      "path": "05 - Fleeting/202404080207 Zettelkasten brief.md"
-    },
-    {
-      "basename": "202404140013 Grokking DSA - Understanding Data Structures",
-      "path": "03 - Resources/032 - Courses/Grokking DSA/Basics/202404140013 Grokking DSA - Understanding Data Structures.md"
     }
   ],
   "omittedPaths": [],

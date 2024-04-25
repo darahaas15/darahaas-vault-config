@@ -93,7 +93,6 @@
   "01 - Projects/011 - Leetcode": "BoBxCodeCurly",
   "01 - Projects/012 - Business": "BoBxsBusiness",
   "02 - Areas/021 - Algorithms": "BoBxShapeTriangle",
-  "02 - Areas/022 - Data Structures": "BoBxsCubeAlt",
   "02 - Areas/023 - Semester": "BoBxBookOpen",
   "03 - Resources/031 - Documentation": "BoBxBookContent",
   "07 - Archives/072 - Old Notes": "BoBxNote",
@@ -108,5 +107,6 @@
   "01 - Projects/013 - Personal": "BoBxsHappyHeartEyes",
   "02 - Areas/025 - Finance": "BoBxMoneyWithdraw",
   "01 - Projects/014 - Crypto Grind": "BoBxBitcoin",
-  "03 - Resources/032 - Courses": "BoBxlDiscourse"
+  "03 - Resources/032 - Courses": "BoBxlDiscourse",
+  "02 - Areas/022 - CS Fundamentals": "BoBxsCubeAlt"
 }
