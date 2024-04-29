@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
+                "file": "05 - Fleeting/202404291237 Saahil IV Split.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "168301344c85ae47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md"
+                "file": "05 - Fleeting/202404291237 Saahil IV Split.md"
               }
             }
           },
@@ -119,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
+                "file": "05 - Fleeting/202404291237 Saahil IV Split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
+                "file": "05 - Fleeting/202404291237 Saahil IV Split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +214,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f518fdf77f5a932d",
+  "active": "fe7ca18ee5219fe0",
   "lastOpenFiles": [
+    "05 - Fleeting/202404291237 Saahil IV Split.md",
+    "99 - Meta/Attachments/Pasted image 20240429124047.png",
+    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
     "06 - Daily/20240428.md",
     "06 - Daily/20240427.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280642 Functional and Non Functional Requirements.md",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/SQL vs NO SQL/SQL vs NO SQL.md",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.md",
@@ -243,8 +253,6 @@
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Quorum",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Proxies",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Indexes/Indexes.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Heartbeat/Heartbeat.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/DNS/DNS.md",
     "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas",
     "00 - Maps of plans/202404261002 Crypto Audit Map.canvas",
     "99 - Meta/Attachments/Pasted image 20240423102139.png",
@@ -255,7 +263,6 @@
     "99 - Meta/Attachments/Pasted image 20240423100123.png",
     "99 - Meta/Attachments/Pasted image 20240423100024.png",
     "99 - Meta/Attachments/Pasted image 20240423095641.png",
-    "99 - Meta/Attachments/Pasted image 20240423095311.png",
-    "99 - Meta/Attachments/Pasted image 20240423095253.png"
+    "99 - Meta/Attachments/Pasted image 20240423095311.png"
   ]
 }
