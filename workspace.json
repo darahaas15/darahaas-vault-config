@@ -20,14 +20,19 @@
             }
           },
           {
-            "id": "168301344c85ae47",
+            "id": "f868cace60a8e799",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Fleeting/202404291237 Saahil IV Split.md"
+                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md"
               }
             }
           },
@@ -127,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Fleeting/202404291237 Saahil IV Split.md",
+                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Fleeting/202404291237 Saahil IV Split.md",
+                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +176,14 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "6b2613bb86b1c200",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -214,9 +227,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe7ca18ee5219fe0",
+  "active": "f868cace60a8e799",
   "lastOpenFiles": [
+    "05 - Fleeting/202404301558 Villa Hunt.md",
+    "03 - Resources/031 - Documentation/202404071838 Linux on the Razer Blade.md",
+    "01 - Projects/014 - Crypto Grind/202404300248 Sybil Resistance.md",
+    "01 - Projects/202404221930 Relational vs Non relational.md",
+    "01 - Projects/014 - Crypto Grind/Solidity/202404180746 Smart contract course.md",
+    "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
+    "01 - Projects/014 - Crypto Grind/202404252246 Blockchain Zero Knowledge.md",
+    "01 - Projects/014 - Crypto Grind/202404090255 What is a crypto audit?.md",
+    "202404301610 Test font.md",
     "05 - Fleeting/202404291237 Saahil IV Split.md",
+    "06 - Daily/20240430.md",
+    "06 - Daily/20240429.md",
+    "01 - Projects/014 - Crypto Grind/Solidity/Solidity.md",
+    "02 - Areas/023 - Semester/BIDL/Scribes/6 Scribe.pdf",
+    "02 - Areas/023 - Semester/BIDL/Scribes/2 Scribe/2 Scribe.pdf",
+    "02 - Areas/023 - Semester/BIDL/Scribes/5 Scribe/5 Scribelecture_13_14lecture_13_14.pdf",
+    "02 - Areas/023 - Semester/BIDL/Scribes/3 Scribe/3 Scribe.pdf",
+    "02 - Areas/023 - Semester/BIDL/Scribes/5 Scribe",
+    "02 - Areas/023 - Semester/BIDL/Scribes/3 Scribe",
+    "02 - Areas/023 - Semester/BIDL/Scribes/1 Scribe/1 Scribe.pdf",
+    "02 - Areas/023 - Semester/BIDL/Scribes/2 Scribe",
+    "02 - Areas/023 - Semester/BIDL/Scribes/4 Scribe/4 Scribe.pdf",
+    "02 - Areas/023 - Semester/BIDL/Scribes/1 Scribe",
+    "02 - Areas/023 - Semester/BIDL/Scribes/Scribes.md",
+    "02 - Areas/023 - Semester/023 - Semester.md",
+    "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md",
+    "04 - Permanent/202404260952 Final Comprehensive Plan.md",
+    "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
     "99 - Meta/Attachments/Pasted image 20240429124047.png",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
     "06 - Daily/20240428.md",
@@ -227,32 +267,6 @@
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Redundancy and Replication/Redundancy and Replication.md",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.canvas",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Quorum/Quorum.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Proxies/Proxies.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Polling, Web Sockets, Server-sent events/Polling, Web Sockets, Server-sent events.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Network Essentials/Network Essentials.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Misc. Concepts/Misc. Concepts.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Load Balancing/Load Balancing.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Leader and Follower/Leader and Follower.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Key Characteristics of Distributed Systems/Key Characteristics of Distributed Systems.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280641 What is a System Design Interview?.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/1 Intro.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/2 Problems/2 Problems.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/4 Trade-offs/4 Trade-offs.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/System Design Interview.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/3 Overview/3 Overview.md",
-    "03 - Resources/032 - Courses/Grokking System Design/202404140000 Grokking SD - Introduction to system design.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/System Design Concepts.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/4 Trade-offs",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/3 Overview",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/2 Problems",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/SQL vs NO SQL",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Redundancy and Replication",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Quorum",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Proxies",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Indexes/Indexes.md",
     "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas",
     "00 - Maps of plans/202404261002 Crypto Audit Map.canvas",
     "99 - Meta/Attachments/Pasted image 20240423102139.png",

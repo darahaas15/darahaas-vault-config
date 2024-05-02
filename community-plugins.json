@@ -26,5 +26,8 @@
   "folder-notes",
   "waypoint",
   "obsidian-banners",
-  "sigma"
+  "sigma",
+  "obsidian-admonition",
+  "obsidian-checklist-plugin",
+  "obsidian-link-embed"
 ]
