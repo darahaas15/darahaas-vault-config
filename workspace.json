@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ebf6c12690db55",
+        "id": "c935fa3e3e61d3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7ca18ee5219fe0",
+            "id": "12bd64eb7c5638fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Fleeting/202404291237 Saahil IV Split.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f868cace60a8e799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
+                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md"
+                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md"
               }
             }
           },
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
+                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
+                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +166,16 @@
             }
           },
           {
+            "id": "4233615c03c64530",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md"
+              }
+            }
+          },
+          {
             "id": "6b2613bb86b1c200",
             "type": "leaf",
             "state": {
@@ -189,11 +186,11 @@
         ]
       },
       {
-        "id": "dcdc8869c2c0276a",
+        "id": "1067343d84515b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "81ff68ff6ce2a221",
+            "id": "f868cace60a8e799",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -227,21 +224,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f868cace60a8e799",
+  "active": "12bd64eb7c5638fe",
   "lastOpenFiles": [
-    "05 - Fleeting/202404301558 Villa Hunt.md",
+    "04 - Permanent/202404260952 Final Comprehensive Plan.md",
+    "02 - Areas/024 - Games/202404100039 Pokemon Platinum Cheats.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404231019 Unions.md",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022108 Hadamard Gate.md",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
+    "99 - Meta/Attachments/Pasted image 20240502211720.png",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022111 Controlled NOT Gate.md",
+    "99 - Meta/Attachments/Pasted image 20240502211313.png",
+    "99 - Meta/Attachments/Pasted image 20240502211100.png",
+    "99 - Meta/Attachments/Pasted image 20240502211014.png",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022106 Hilbert Spaces.md",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022055 Entanglement.md",
+    "99 - Meta/Attachments/Pasted image 20240502210435.png",
+    "99 - Meta/Attachments/Pasted image 20240502210114.png",
+    "99 - Meta/Attachments/Pasted image 20240502205912.png",
+    "99 - Meta/Attachments/Pasted image 20240502205901.png",
+    "99 - Meta/Attachments/Pasted image 20240502205845.png",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022051 Intro to Quantum Architecture and Programming.md",
+    "06 - Daily/20240502.md",
+    "06 - Daily/06 - Daily.md",
+    "03 - Resources/032 - Courses/Grokking DSA/Grokking DSA.md",
+    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/System Design Concepts.md",
+    "03 - Resources/032 - Courses/Grokking System Design/Grokking System Design.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230840 Left Join.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Inner Join.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Outer Join.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230832 Joins in DBMS.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230446 Constraints.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202404092100 Anthro PPT.md",
     "03 - Resources/031 - Documentation/202404071838 Linux on the Razer Blade.md",
-    "01 - Projects/014 - Crypto Grind/202404300248 Sybil Resistance.md",
-    "01 - Projects/202404221930 Relational vs Non relational.md",
-    "01 - Projects/014 - Crypto Grind/Solidity/202404180746 Smart contract course.md",
-    "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
-    "01 - Projects/014 - Crypto Grind/202404252246 Blockchain Zero Knowledge.md",
-    "01 - Projects/014 - Crypto Grind/202404090255 What is a crypto audit?.md",
-    "202404301610 Test font.md",
-    "05 - Fleeting/202404291237 Saahil IV Split.md",
-    "06 - Daily/20240430.md",
-    "06 - Daily/20240429.md",
-    "01 - Projects/014 - Crypto Grind/Solidity/Solidity.md",
+    "03 - Resources/031 - Documentation/202404071841 LunarVim in VSCode.md",
+    "04 - Permanent/043 - Personal/Splits/202405021257 Arambol Split.md",
+    "06 - Daily/20240501.md",
+    "04 - Permanent/043 - Personal/Splits/202404291237 Saahil IV Split.md",
+    "04 - Permanent/043 - Personal/Splits",
+    "05 - Fleeting/Untitled",
     "02 - Areas/023 - Semester/BIDL/Scribes/6 Scribe.pdf",
     "02 - Areas/023 - Semester/BIDL/Scribes/2 Scribe/2 Scribe.pdf",
     "02 - Areas/023 - Semester/BIDL/Scribes/5 Scribe/5 Scribelecture_13_14lecture_13_14.pdf",
@@ -250,33 +271,9 @@
     "02 - Areas/023 - Semester/BIDL/Scribes/3 Scribe",
     "02 - Areas/023 - Semester/BIDL/Scribes/1 Scribe/1 Scribe.pdf",
     "02 - Areas/023 - Semester/BIDL/Scribes/2 Scribe",
-    "02 - Areas/023 - Semester/BIDL/Scribes/4 Scribe/4 Scribe.pdf",
-    "02 - Areas/023 - Semester/BIDL/Scribes/1 Scribe",
-    "02 - Areas/023 - Semester/BIDL/Scribes/Scribes.md",
-    "02 - Areas/023 - Semester/023 - Semester.md",
-    "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md",
-    "04 - Permanent/202404260952 Final Comprehensive Plan.md",
-    "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md",
     "99 - Meta/Attachments/Pasted image 20240429124047.png",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md",
-    "06 - Daily/20240428.md",
-    "06 - Daily/20240427.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280642 Functional and Non Functional Requirements.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/SQL vs NO SQL/SQL vs NO SQL.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Redundancy and Replication/Redundancy and Replication.md",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.canvas",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Quorum/Quorum.md",
     "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas",
-    "00 - Maps of plans/202404261002 Crypto Audit Map.canvas",
-    "99 - Meta/Attachments/Pasted image 20240423102139.png",
-    "99 - Meta/Attachments/Pasted image 20240423101524.png",
-    "99 - Meta/Attachments/Pasted image 20240423101358.png",
-    "99 - Meta/Attachments/Pasted image 20240423101356.png",
-    "99 - Meta/Attachments/Pasted image 20240423100129.png",
-    "99 - Meta/Attachments/Pasted image 20240423100123.png",
-    "99 - Meta/Attachments/Pasted image 20240423100024.png",
-    "99 - Meta/Attachments/Pasted image 20240423095641.png",
-    "99 - Meta/Attachments/Pasted image 20240423095311.png"
+    "00 - Maps of plans/202404261002 Crypto Audit Map.canvas"
   ]
 }

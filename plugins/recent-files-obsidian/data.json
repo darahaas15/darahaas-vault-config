@@ -1,16 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "202404080412 TODOs Obsidian",
-      "path": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md"
+      "basename": "202405022116 X Gate and Z Gate",
+      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md"
     },
     {
-      "basename": "202404301558 Villa Hunt",
-      "path": "05 - Fleeting/202404301558 Villa Hunt.md"
+      "basename": "202404260952 Final Comprehensive Plan",
+      "path": "04 - Permanent/202404260952 Final Comprehensive Plan.md"
+    },
+    {
+      "basename": "202404100039 Pokemon Platinum Cheats",
+      "path": "02 - Areas/024 - Games/202404100039 Pokemon Platinum Cheats.md"
+    },
+    {
+      "basename": "202404231019 Unions",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231019 Unions.md"
+    },
+    {
+      "basename": "202405022108 Hadamard Gate",
+      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022108 Hadamard Gate.md"
+    },
+    {
+      "basename": "202405022111 Controlled NOT Gate",
+      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022111 Controlled NOT Gate.md"
+    },
+    {
+      "basename": "202405022106 Hilbert Spaces",
+      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022106 Hilbert Spaces.md"
+    },
+    {
+      "basename": "202405022055 Entanglement",
+      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022055 Entanglement.md"
+    },
+    {
+      "basename": "202405022051 Intro to Quantum Architecture and Programming",
+      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022051 Intro to Quantum Architecture and Programming.md"
+    },
+    {
+      "basename": "20240502",
+      "path": "06 - Daily/20240502.md"
+    },
+    {
+      "basename": "06 - Daily",
+      "path": "06 - Daily/06 - Daily.md"
+    },
+    {
+      "basename": "Grokking DSA",
+      "path": "03 - Resources/032 - Courses/Grokking DSA/Grokking DSA.md"
+    },
+    {
+      "basename": "System Design Concepts",
+      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/System Design Concepts.md"
+    },
+    {
+      "basename": "Grokking System Design",
+      "path": "03 - Resources/032 - Courses/Grokking System Design/Grokking System Design.md"
+    },
+    {
+      "basename": "202404230840 Left Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230840 Left Join.md"
+    },
+    {
+      "basename": "202404230839 Inner Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Inner Join.md"
+    },
+    {
+      "basename": "202404230839 Outer Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Outer Join.md"
+    },
+    {
+      "basename": "202404230832 Joins in DBMS",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230832 Joins in DBMS.md"
+    },
+    {
+      "basename": "202404230446 Constraints",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230446 Constraints.md"
+    },
+    {
+      "basename": "202404230440 Primary key",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md"
+    },
+    {
+      "basename": "202404092100 Anthro PPT",
+      "path": "02 - Areas/023 - Semester/Intro to Anthropology/202404092100 Anthro PPT.md"
     },
     {
       "basename": "202404071838 Linux on the Razer Blade",
       "path": "03 - Resources/031 - Documentation/202404071838 Linux on the Razer Blade.md"
+    },
+    {
+      "basename": "202404071841 LunarVim in VSCode",
+      "path": "03 - Resources/031 - Documentation/202404071841 LunarVim in VSCode.md"
+    },
+    {
+      "basename": "202405021257 Arambol Split",
+      "path": "04 - Permanent/043 - Personal/Splits/202405021257 Arambol Split.md"
+    },
+    {
+      "basename": "20240501",
+      "path": "06 - Daily/20240501.md"
+    },
+    {
+      "basename": "202404291237 Saahil IV Split",
+      "path": "04 - Permanent/043 - Personal/Splits/202404291237 Saahil IV Split.md"
+    },
+    {
+      "basename": "043 - Personal",
+      "path": "04 - Permanent/043 - Personal/043 - Personal.md"
+    },
+    {
+      "basename": "014 - Crypto Grind",
+      "path": "01 - Projects/014 - Crypto Grind/014 - Crypto Grind.md"
+    },
+    {
+      "basename": "202404080412 TODOs Obsidian",
+      "path": "07 - Archives/074 - Temp/202404080412 TODOs Obsidian.md"
+    },
+    {
+      "basename": "Data Structures",
+      "path": "02 - Areas/022 - CS Fundamentals/Data Structures/Data Structures.md"
+    },
+    {
+      "basename": "202404301558 Villa Hunt",
+      "path": "05 - Fleeting/202404301558 Villa Hunt.md"
     },
     {
       "basename": "202404300248 Sybil Resistance",
@@ -35,10 +147,6 @@
     {
       "basename": "202404090255 What is a crypto audit?",
       "path": "01 - Projects/014 - Crypto Grind/202404090255 What is a crypto audit?.md"
-    },
-    {
-      "basename": "202404291237 Saahil IV Split",
-      "path": "05 - Fleeting/202404291237 Saahil IV Split.md"
     },
     {
       "basename": "20240430",
@@ -91,114 +199,6 @@
     {
       "basename": "023 - Semester",
       "path": "02 - Areas/023 - Semester/023 - Semester.md"
-    },
-    {
-      "basename": "202404071235 BIDL-A3",
-      "path": "02 - Areas/023 - Semester/BIDL/202404071235 BIDL-A3.md"
-    },
-    {
-      "basename": "202404260952 Final Comprehensive Plan",
-      "path": "04 - Permanent/202404260952 Final Comprehensive Plan.md"
-    },
-    {
-      "basename": "202404280652 Estimations",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280652 Estimations.md"
-    },
-    {
-      "basename": "20240428",
-      "path": "06 - Daily/20240428.md"
-    },
-    {
-      "basename": "20240427",
-      "path": "06 - Daily/20240427.md"
-    },
-    {
-      "basename": "202404280642 Functional and Non Functional Requirements",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280642 Functional and Non Functional Requirements.md"
-    },
-    {
-      "basename": "SQL vs NO SQL",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/SQL vs NO SQL/SQL vs NO SQL.md"
-    },
-    {
-      "basename": "Security",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.md"
-    },
-    {
-      "basename": "Redundancy and Replication",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Redundancy and Replication/Redundancy and Replication.md"
-    },
-    {
-      "basename": "Quorum",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Quorum/Quorum.md"
-    },
-    {
-      "basename": "Proxies",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Proxies/Proxies.md"
-    },
-    {
-      "basename": "Polling, Web Sockets, Server-sent events",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Polling, Web Sockets, Server-sent events/Polling, Web Sockets, Server-sent events.md"
-    },
-    {
-      "basename": "Network Essentials",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Network Essentials/Network Essentials.md"
-    },
-    {
-      "basename": "Misc. Concepts",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Misc. Concepts/Misc. Concepts.md"
-    },
-    {
-      "basename": "Load Balancing",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Load Balancing/Load Balancing.md"
-    },
-    {
-      "basename": "Leader and Follower",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Leader and Follower/Leader and Follower.md"
-    },
-    {
-      "basename": "Key Characteristics of Distributed Systems",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Key Characteristics of Distributed Systems/Key Characteristics of Distributed Systems.md"
-    },
-    {
-      "basename": "202404280641 What is a System Design Interview?",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280641 What is a System Design Interview?.md"
-    },
-    {
-      "basename": "1 Intro",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/1 Intro.md"
-    },
-    {
-      "basename": "2 Problems",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/2 Problems/2 Problems.md"
-    },
-    {
-      "basename": "4 Trade-offs",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/4 Trade-offs/4 Trade-offs.md"
-    },
-    {
-      "basename": "System Design Interview",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/System Design Interview.md"
-    },
-    {
-      "basename": "3 Overview",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/3 Overview/3 Overview.md"
-    },
-    {
-      "basename": "202404140000 Grokking SD - Introduction to system design",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/202404140000 Grokking SD - Introduction to system design.md"
-    },
-    {
-      "basename": "System Design Concepts",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/System Design Concepts.md"
-    },
-    {
-      "basename": "202404261130 The Alchemist Quotes",
-      "path": "04 - Permanent/Quotes from books/202404261130 The Alchemist Quotes.md"
-    },
-    {
-      "basename": "Grokking System Design",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/Grokking System Design.md"
     }
   ],
   "omittedPaths": [],
