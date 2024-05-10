@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxCog",
+      "BoBxPhotoAlbum",
+      "BoBxlJavascript",
       "BoBxlDiscourse",
-      "BoBxBitcoin",
-      "BoBxMoneyWithdraw",
-      "BoBxsHappyHeartEyes",
-      "BoBxHappyHeartEyes"
+      "BoBxBitcoin"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -101,12 +101,15 @@
   "04 - Permanent/041 - Canvas": "BoBxsCard",
   "04 - Permanent/042 - Diagrams": "BoBxIntersect",
   "04 - Permanent/044 - Flowcharts": "BoBxsNetworkChart",
-  "99 - Meta/Attachments/PDFs": "BoBxsFilePdf",
-  "99 - Meta/Attachments/Images": "BoBxImages",
   "02 - Areas/024 - Games": "BoBxGame",
   "02 - Areas/025 - Finance": "BoBxMoneyWithdraw",
   "01 - Projects/014 - Crypto Grind": "BoBxBitcoin",
   "03 - Resources/032 - Courses": "BoBxlDiscourse",
   "02 - Areas/022 - CS Fundamentals": "BoBxsCubeAlt",
-  "04 - Permanent/043 - Personal": "BoBxsHappyHeartEyes"
+  "04 - Permanent/043 - Personal": "BoBxsHappyHeartEyes",
+  "99 - Meta/02 - Attachments/Images": "BoBxImages",
+  "99 - Meta/02 - Attachments/PDFs": "BoBxsFilePdf",
+  "99 - Meta/01 - Scripts": "BoBxlJavascript",
+  "99 - Meta/02 - Attachments": "BoBxPhotoAlbum",
+  "99 - Meta/03 - Preloaded Classes": "BoBxCog"
 }

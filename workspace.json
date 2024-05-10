@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c935fa3e3e61d3b9",
+        "id": "ac9d9ebd6e057280",
         "type": "tabs",
-        "dimension": 72.26277372262774,
+        "dimension": 71.85672514619883,
         "children": [
           {
-            "id": "5ee21255158229f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9250586c88838bb8",
+            "id": "b118bf5ed62d3c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,16 +20,15 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "5446e3d5d66ac116",
+        "id": "8d8f30503814c5ed",
         "type": "tabs",
-        "dimension": 27.73722627737226,
+        "dimension": 28.14327485380117,
         "children": [
           {
-            "id": "5fd10da7b25aaa48",
+            "id": "cf84f863f3b423d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "51d1a93aa5930145",
@@ -235,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,28 +245,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9250586c88838bb8",
+  "active": "b118bf5ed62d3c48",
   "lastOpenFiles": [
-    "06 - Daily/20240510.md",
-    "06 - Daily/20240508.md",
-    "06 - Daily/20240507.md",
-    "06 - Daily/20240506.md",
-    "06 - Daily/20240505.md",
-    "06 - Daily/20240504.md",
-    "06 - Daily/20240503.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
-    "04 - Permanent/041 - Canvas/202404261002 Crypto Audit Map.canvas",
-    "02 - Areas/023 - Semester/Intro to Anthropology/202405092306 Ethnography.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md",
-    "04 - Permanent/043 - Personal/Splits/202405051610 Titas split.md",
-    "03 - Resources/032 - Courses/Grokking System Design/202405050248 Master template.md",
     "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md",
-    "99 - Meta/Attachments/Pasted image 20240509232157.png",
-    "99 - Meta/Attachments/Pasted image 20240509232122.png",
-    "04 - Permanent/202404260952 Final Comprehensive Plan.md",
-    "99 - Meta/Attachments/Pasted image 20240509231547.png",
-    "99 - Meta/Attachments/Pasted image 20240509231520.png",
-    "99 - Meta/Attachments/Pasted image 20240509231517.png",
+    "202405102018 new dude.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) New Note.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "Test Note.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md",
+    "05 - Fleeting/202405051408 Properties.md",
+    "Test.md",
+    "please work.md",
+    "202405102007.md",
+    "202405102005 Name.md",
+    "202405101958.md",
+    "lnonk.md",
+    "ewonk2.md",
+    "ewonk.md",
+    "lonk.md",
+    "05 - Fleeting/202404082320 Cool shit about game theory.md",
+    "07 - Archives/072 - Old Notes/Bear/202404071844 Old Terminal Colors.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) New.md",
+    "Link.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/03 - Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "99 - Meta/00 - Templates/Untitled",
+    "05 - Fleeting/Untitled.md",
+    "99 - Meta/01 - Scripts",
+    "99 - Meta/03 - Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/02 - Attachments/Pasted image 20240416120142.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240416120148.png",
+    "202405101943.md",
+    "04 - Permanent/041 - Canvas/202404261002 Crypto Audit Map.canvas",
+    "99 - Meta/02 - Attachments/Pasted image 20240509232157.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240509232122.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240509231547.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240509231520.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240509231517.png",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_9.pdf",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_9 2.pdf",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_12 2.docx",
@@ -288,25 +291,9 @@
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 11 2.pptx",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 8 2.pptx",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 7 2.pptx",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 6.pptx",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 5.pptx",
-    "02 - Areas/023 - Semester/Intro to Anthropology/202404081037 Anthropology Midsem Notes.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/Anthro people.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Emile Durkheim.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Julian Stewart.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Bronislaw Malinowski.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Marcel Mauss.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Radcliffe Brown.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Lewis Strauss.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Evans Pritchard.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Virginius Xaxa.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 GS Ghurye.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Marvin Harris.md",
-    "99 - Meta/Attachments/Pasted image 20240505024936.png",
-    "99 - Meta/Attachments/Pasted image 20240502211720.png",
-    "99 - Meta/Attachments/Pasted image 20240502211313.png",
-    "99 - Meta/Attachments/Pasted image 20240502211100.png",
-    "99 - Meta/Attachments/Pasted image 20240502211014.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240505024936.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240502211720.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240502211313.png",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.canvas",
     "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas"
   ]

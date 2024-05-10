@@ -5,6 +5,58 @@
       "path": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md"
     },
     {
+      "basename": "202405090228 Anthropology Compre Notes",
+      "path": "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md"
+    },
+    {
+      "basename": "(TEMPLATE) New Note",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) New Note.md"
+    },
+    {
+      "basename": "(TEMPLATE) Unique",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
+    },
+    {
+      "basename": "202405092316 Acculturation",
+      "path": "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md"
+    },
+    {
+      "basename": "202405051408 Properties",
+      "path": "05 - Fleeting/202405051408 Properties.md"
+    },
+    {
+      "basename": "202404082320 Cool shit about game theory",
+      "path": "05 - Fleeting/202404082320 Cool shit about game theory.md"
+    },
+    {
+      "basename": "202404071844 Old Terminal Colors",
+      "path": "07 - Archives/072 - Old Notes/Bear/202404071844 Old Terminal Colors.md"
+    },
+    {
+      "basename": "(TEMPLATE) Daily",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
+    },
+    {
+      "basename": "202401211512 Notebook CSS Classes",
+      "path": "99 - Meta/03 - Preloaded Classes/202401211512 Notebook CSS Classes.md"
+    },
+    {
+      "basename": "202403091325 General Tweaks CSS Classes",
+      "path": "99 - Meta/03 - Preloaded Classes/202403091325 General Tweaks CSS Classes.md"
+    },
+    {
+      "basename": "Pasted image 20240416120142",
+      "path": "99 - Meta/02 - Attachments/Pasted image 20240416120142.png"
+    },
+    {
+      "basename": "Pasted image 20240416120148",
+      "path": "99 - Meta/02 - Attachments/Pasted image 20240416120148.png"
+    },
+    {
+      "basename": "(TEMPLATE) Daily (Vanilla)",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
+    },
+    {
       "basename": "20240510",
       "path": "06 - Daily/20240510.md"
     },
@@ -41,20 +93,12 @@
       "path": "02 - Areas/023 - Semester/Intro to Anthropology/202405092306 Ethnography.md"
     },
     {
-      "basename": "202405092316 Acculturation",
-      "path": "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md"
-    },
-    {
       "basename": "202405051610 Titas split",
       "path": "04 - Permanent/043 - Personal/Splits/202405051610 Titas split.md"
     },
     {
       "basename": "202405050248 Master template",
       "path": "03 - Resources/032 - Courses/Grokking System Design/202405050248 Master template.md"
-    },
-    {
-      "basename": "202405090228 Anthropology Compre Notes",
-      "path": "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md"
     },
     {
       "basename": "202404260952 Final Comprehensive Plan",
@@ -143,62 +187,6 @@
     {
       "basename": "202404071234 Creative Writing",
       "path": "02 - Areas/023 - Semester/Creative Writing/202404071234 Creative Writing.md"
-    },
-    {
-      "basename": "Creative Writing",
-      "path": "02 - Areas/023 - Semester/Creative Writing/Creative Writing.md"
-    },
-    {
-      "basename": "202405051408 Properties",
-      "path": "05 - Fleeting/202405051408 Properties.md"
-    },
-    {
-      "basename": "202405050246 Step by step guide",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/2 Problems/202405050246 Step by step guide.md"
-    },
-    {
-      "basename": "202405050230 Things to avoid",
-      "path": "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202405050230 Things to avoid.md"
-    },
-    {
-      "basename": "202404261130 The Alchemist Quotes",
-      "path": "04 - Permanent/Quotes from books/202404261130 The Alchemist Quotes.md"
-    },
-    {
-      "basename": "202405022106 Hilbert Spaces",
-      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022106 Hilbert Spaces.md"
-    },
-    {
-      "basename": "202405022116 X Gate and Z Gate",
-      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md"
-    },
-    {
-      "basename": "202404100039 Pokemon Platinum Cheats",
-      "path": "02 - Areas/024 - Games/202404100039 Pokemon Platinum Cheats.md"
-    },
-    {
-      "basename": "202404231019 Unions",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231019 Unions.md"
-    },
-    {
-      "basename": "202405022108 Hadamard Gate",
-      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022108 Hadamard Gate.md"
-    },
-    {
-      "basename": "202405022111 Controlled NOT Gate",
-      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022111 Controlled NOT Gate.md"
-    },
-    {
-      "basename": "202405022055 Entanglement",
-      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022055 Entanglement.md"
-    },
-    {
-      "basename": "202405022051 Intro to Quantum Architecture and Programming",
-      "path": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022051 Intro to Quantum Architecture and Programming.md"
-    },
-    {
-      "basename": "20240502",
-      "path": "06 - Daily/20240502.md"
     }
   ],
   "omittedPaths": [],
