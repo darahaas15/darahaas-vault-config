@@ -30,5 +30,7 @@
   "obsidian-admonition",
   "obsidian-checklist-plugin",
   "obsidian-link-embed",
-  "quick-latex"
+  "quick-latex",
+  "better-export-pdf",
+  "obsidian-enhancing-export"
 ]

@@ -6,14 +6,47 @@
       {
         "id": "c935fa3e3e61d3b9",
         "type": "tabs",
+        "dimension": 72.26277372262774,
         "children": [
           {
-            "id": "12bd64eb7c5638fe",
+            "id": "5ee21255158229f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9250586c88838bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5446e3d5d66ac116",
+        "type": "tabs",
+        "dimension": 27.73722627737226,
+        "children": [
+          {
+            "id": "5fd10da7b25aaa48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md"
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md"
               }
             }
           },
@@ -119,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md"
+                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md"
               }
             }
           },
@@ -183,10 +216,11 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
-        "id": "1067343d84515b5b",
+        "id": "51d1a93aa5930145",
         "type": "tabs",
         "children": [
           {
@@ -224,56 +258,56 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12bd64eb7c5638fe",
+  "active": "9250586c88838bb8",
   "lastOpenFiles": [
+    "06 - Daily/20240510.md",
+    "06 - Daily/20240508.md",
+    "06 - Daily/20240507.md",
+    "06 - Daily/20240506.md",
+    "06 - Daily/20240505.md",
+    "06 - Daily/20240504.md",
+    "06 - Daily/20240503.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
+    "04 - Permanent/041 - Canvas/202404261002 Crypto Audit Map.canvas",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202405092306 Ethnography.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md",
+    "04 - Permanent/043 - Personal/Splits/202405051610 Titas split.md",
+    "03 - Resources/032 - Courses/Grokking System Design/202405050248 Master template.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md",
+    "99 - Meta/Attachments/Pasted image 20240509232157.png",
+    "99 - Meta/Attachments/Pasted image 20240509232122.png",
     "04 - Permanent/202404260952 Final Comprehensive Plan.md",
-    "02 - Areas/024 - Games/202404100039 Pokemon Platinum Cheats.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404231019 Unions.md",
-    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022108 Hadamard Gate.md",
-    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
+    "99 - Meta/Attachments/Pasted image 20240509231547.png",
+    "99 - Meta/Attachments/Pasted image 20240509231520.png",
+    "99 - Meta/Attachments/Pasted image 20240509231517.png",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_9.pdf",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_9 2.pdf",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_12 2.docx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/Tribe 2.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_10 2.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 11 2.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 8 2.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 7 2.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 6.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 5.pptx",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202404081037 Anthropology Midsem Notes.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/Anthro people.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Emile Durkheim.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Julian Stewart.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Bronislaw Malinowski.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Marcel Mauss.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Radcliffe Brown.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Lewis Strauss.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Evans Pritchard.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Virginius Xaxa.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 GS Ghurye.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Marvin Harris.md",
+    "99 - Meta/Attachments/Pasted image 20240505024936.png",
     "99 - Meta/Attachments/Pasted image 20240502211720.png",
-    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022111 Controlled NOT Gate.md",
     "99 - Meta/Attachments/Pasted image 20240502211313.png",
     "99 - Meta/Attachments/Pasted image 20240502211100.png",
     "99 - Meta/Attachments/Pasted image 20240502211014.png",
-    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022106 Hilbert Spaces.md",
-    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022055 Entanglement.md",
-    "99 - Meta/Attachments/Pasted image 20240502210435.png",
-    "99 - Meta/Attachments/Pasted image 20240502210114.png",
-    "99 - Meta/Attachments/Pasted image 20240502205912.png",
-    "99 - Meta/Attachments/Pasted image 20240502205901.png",
-    "99 - Meta/Attachments/Pasted image 20240502205845.png",
-    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022051 Intro to Quantum Architecture and Programming.md",
-    "06 - Daily/20240502.md",
-    "06 - Daily/06 - Daily.md",
-    "03 - Resources/032 - Courses/Grokking DSA/Grokking DSA.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/System Design Concepts.md",
-    "03 - Resources/032 - Courses/Grokking System Design/Grokking System Design.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230840 Left Join.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Inner Join.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Outer Join.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230832 Joins in DBMS.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230446 Constraints.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/202404092100 Anthro PPT.md",
-    "03 - Resources/031 - Documentation/202404071838 Linux on the Razer Blade.md",
-    "03 - Resources/031 - Documentation/202404071841 LunarVim in VSCode.md",
-    "04 - Permanent/043 - Personal/Splits/202405021257 Arambol Split.md",
-    "06 - Daily/20240501.md",
-    "04 - Permanent/043 - Personal/Splits/202404291237 Saahil IV Split.md",
-    "04 - Permanent/043 - Personal/Splits",
-    "05 - Fleeting/Untitled",
-    "02 - Areas/023 - Semester/BIDL/Scribes/6 Scribe.pdf",
-    "02 - Areas/023 - Semester/BIDL/Scribes/2 Scribe/2 Scribe.pdf",
-    "02 - Areas/023 - Semester/BIDL/Scribes/5 Scribe/5 Scribelecture_13_14lecture_13_14.pdf",
-    "02 - Areas/023 - Semester/BIDL/Scribes/3 Scribe/3 Scribe.pdf",
-    "02 - Areas/023 - Semester/BIDL/Scribes/5 Scribe",
-    "02 - Areas/023 - Semester/BIDL/Scribes/3 Scribe",
-    "02 - Areas/023 - Semester/BIDL/Scribes/1 Scribe/1 Scribe.pdf",
-    "02 - Areas/023 - Semester/BIDL/Scribes/2 Scribe",
-    "99 - Meta/Attachments/Pasted image 20240429124047.png",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.canvas",
-    "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas",
-    "00 - Maps of plans/202404261002 Crypto Audit Map.canvas"
+    "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas"
   ]
 }
