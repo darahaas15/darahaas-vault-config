@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac9d9ebd6e057280",
+        "id": "90253013492cbe5d",
         "type": "tabs",
-        "dimension": 71.85672514619883,
         "children": [
           {
-            "id": "b118bf5ed62d3c48",
+            "id": "5c2286a559da3db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d8f30503814c5ed",
-        "type": "tabs",
-        "dimension": 28.14327485380117,
-        "children": [
-          {
-            "id": "cf84f863f3b423d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md",
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md"
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
               }
             }
           },
@@ -139,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md"
+                "file": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
               }
             }
           },
@@ -207,11 +187,11 @@
         "currentTab": 1
       },
       {
-        "id": "51d1a93aa5930145",
+        "id": "b959f9915258fc40",
         "type": "tabs",
         "children": [
           {
-            "id": "f868cace60a8e799",
+            "id": "91c7c35fae21a411",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -245,38 +225,42 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b118bf5ed62d3c48",
+  "active": "f518fdf77f5a932d",
   "lastOpenFiles": [
+    "04 - Permanent/Quotes from books/202404261130 The Alchemist Quotes.md",
+    "02 - Areas/023 - Semester/BIDL/202405190616 BIDL scenes.md",
+    "04 - Permanent/043 - Personal/202405190135 Villa booking.md",
+    "01 - Projects/202404221930 Relational vs Non relational.md",
+    "01 - Projects/012 - Business/202405161457 SEO Articles.md",
+    "01 - Projects/014 - Crypto Grind/014 - Crypto Grind.md",
+    "01 - Projects/012 - Business/202405161456 Digital Products.md",
+    "99 - Meta/02 - Attachments/Pasted image 20240517060315.png",
+    "04 - Permanent/043 - Personal/Splits/Splits.md",
+    "04 - Permanent/202404260952 Final Comprehensive Plan.md",
+    "02 - Areas/023 - Semester/BIDL/BIDL.md",
+    "06 - Daily/20240518.md",
+    "06 - Daily/20240517.md",
+    "04 - Permanent/043 - Personal/Purchases/202405170602 Monitor Purchase.md",
+    "04 - Permanent/043 - Personal/Purchases",
+    "04 - Permanent/043 - Personal/Splits/202405160646 Jamming Goat Split.md",
+    "99 - Meta/02 - Attachments/Pasted image 20240516064754.png",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/Quantum Architecture and Programming.md",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/QAP_CHEATSHEET.pdf",
+    "04 - Permanent/043 - Personal/Splits/202405120154 Joets Split.md",
+    "02 - Areas/023 - Semester/Creative Writing/Creative Writing.md",
+    "02 - Areas/023 - Semester/Quantum Architecture and Programming/202405022116 X Gate and Z Gate.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Marvin Harris.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Emile Durkheim.md",
     "02 - Areas/023 - Semester/Intro to Anthropology/202405090228 Anthropology Compre Notes.md",
-    "202405102018 new dude.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Franz Boas.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Lewis Henry Morgan.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Bronislaw Malinowski.md",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Edward Burnett Tylor.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) New Note.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "Test Note.md",
-    "02 - Areas/023 - Semester/Intro to Anthropology/202405092316 Acculturation.md",
-    "05 - Fleeting/202405051408 Properties.md",
-    "Test.md",
-    "please work.md",
-    "202405102007.md",
-    "202405102005 Name.md",
-    "202405101958.md",
-    "lnonk.md",
-    "ewonk2.md",
-    "ewonk.md",
-    "lonk.md",
-    "05 - Fleeting/202404082320 Cool shit about game theory.md",
-    "07 - Archives/072 - Old Notes/Bear/202404071844 Old Terminal Colors.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) New.md",
-    "Link.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/03 - Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro people/202405090233 Julian Stewart.md",
     "99 - Meta/00 - Templates/Untitled",
-    "05 - Fleeting/Untitled.md",
     "99 - Meta/01 - Scripts",
-    "99 - Meta/03 - Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
     "99 - Meta/02 - Attachments/Pasted image 20240416120142.png",
     "99 - Meta/02 - Attachments/Pasted image 20240416120148.png",
-    "202405101943.md",
     "04 - Permanent/041 - Canvas/202404261002 Crypto Audit Map.canvas",
     "99 - Meta/02 - Attachments/Pasted image 20240509232157.png",
     "99 - Meta/02 - Attachments/Pasted image 20240509232122.png",
@@ -289,11 +273,7 @@
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/Tribe 2.pptx",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_10 2.pptx",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 11 2.pptx",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 8 2.pptx",
-    "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE 7 2.pptx",
     "99 - Meta/02 - Attachments/Pasted image 20240505024936.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240502211720.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240502211313.png",
     "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/Security/Security.canvas",
     "03 - Resources/032 - Courses/Grokking System Design/Data Partitioning/Data Partitioning.canvas"
   ]

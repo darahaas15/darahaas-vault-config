@@ -2,7 +2,7 @@
   "showInlineTitle": false,
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99 - Meta/attachments",
+  "attachmentFolderPath": "99 - Meta/02 - Attachments",
   "promptDelete": false,
   "userIgnoreFilters": [
     "99 - Meta/"
@@ -19,5 +19,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showUnsupportedFiles": false
 }
