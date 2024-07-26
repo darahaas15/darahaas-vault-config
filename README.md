@@ -1,1 +1,1 @@
-# Clone into your .obsidian directory
+**Clone into your .obsidian directory**
