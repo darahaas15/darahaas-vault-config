@@ -90,7 +90,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "01 - Projects/011 - Leetcode": "BoBxCodeCurly",
   "01 - Projects/012 - Business": "BoBxsBusiness",
   "02 - Areas/021 - Algorithms": "BoBxShapeTriangle",
   "02 - Areas/023 - Semester": "BoBxBookOpen",
@@ -111,5 +110,6 @@
   "99 - Meta/02 - Attachments/PDFs": "BoBxsFilePdf",
   "99 - Meta/01 - Scripts": "BoBxlJavascript",
   "99 - Meta/02 - Attachments": "BoBxPhotoAlbum",
-  "99 - Meta/03 - Preloaded Classes": "BoBxCog"
+  "99 - Meta/03 - Preloaded Classes": "BoBxCog",
+  "01 - Projects/011 - Leetcode Solving Sessions": "BoBxCodeCurly"
 }
