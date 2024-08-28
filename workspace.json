@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "868779ec0647d5fb",
+        "id": "57d2964d739ae95a",
         "type": "tabs",
         "children": [
           {
-            "id": "5aadc02df9ecc034",
+            "id": "5680ed897486c54e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/043 - Personal/202407141754 Resume.md",
+                "file": "01 - Projects/014 - Crypto Grind/Audit Submissions/202408030024 Basin Audit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a916318e680af214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240809.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "699706cccad5b812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240814.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8095ba73b1866db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202408190751 BTB split.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ab1e73c498c5909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202408261351 Shray Split.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#7d94b5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/043 - Personal/202407141754 Resume.md"
+                "file": "202408261351 Shray Split.md"
               }
             }
           },
@@ -119,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/043 - Personal/202407141754 Resume.md",
+                "file": "202408261351 Shray Split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/043 - Personal/202407141754 Resume.md",
+                "file": "202408261351 Shray Split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - Permanent/043 - Personal/202407141754 Resume.md"
+                "file": "202408261351 Shray Split.md"
               }
             }
           },
@@ -186,11 +235,11 @@
         ]
       },
       {
-        "id": "13a437433a6d7c36",
+        "id": "c157d79ec37173c5",
         "type": "tabs",
         "children": [
           {
-            "id": "91c7c35fae21a411",
+            "id": "06d900138ffbf0f9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -224,34 +273,39 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "5aadc02df9ecc034",
+  "active": "2ab1e73c498c5909",
   "lastOpenFiles": [
-    "04 - Permanent/043 - Personal/Splits/202406292103 Rishika Split.md",
-    "04 - Permanent/043 - Personal/202407141754 Resume.md",
-    "02 - Areas/021 - Algorithms/202407050959 Dynamic Programming.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404221935 SQL Introduction.md",
-    "05 - Fleeting/202004071031 Powerlifting.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Concepts/API Gateway/API Gateway.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/2 Problems/202405050246 Step by step guide.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/2 Problems/2 Problems.md",
-    "03 - Resources/032 - Courses/Grokking System Design/System Design Interview/1 Intro/202404280642 Functional and Non Functional Requirements.md",
-    "06 - Daily/20240726.md",
-    "06 - Daily/20240716.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404230427 DDL.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404221933 Relational DB.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404221934 Non Relational DB.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/202404221930 Relational vs Non relational.md",
-    "02 - Areas/022 - CS Fundamentals/DBMS/DBMS.md",
-    "06 - Daily/20240715.md",
-    "06 - Daily/20240714.md",
-    "07 - Archives/072 - Old Notes/Notion/202404071832 Solidity and Intro to Crypto.md",
+    "06 - Daily/20240826.md",
+    "202408261351 Shray Split.md",
+    "06 - Daily/20240820.md",
+    "202408190751 BTB split.md",
+    "06 - Daily/20240818.md",
+    "06 - Daily/20240814.md",
+    "06 - Daily/20240809.md",
+    "01 - Projects/014 - Crypto Grind/Audit Submissions/202408030024 Basin Audit.md",
+    "01 - Projects/014 - Crypto Grind/Audit Submissions/202408030041 Basin Audit writeup.md",
+    "06 - Daily/20240803.md",
+    "02 - Areas/024 - Games/Emerald Nuzlocke/202404081046 Emerald Nuzlocke.md",
+    "06 - Daily/20240802.md",
+    "06 - Daily/20240801.md",
+    "06 - Daily/20240731.md",
+    "202407311448 Assignment color palate.md",
+    "99 - Meta/02 - Attachments/Pasted image 20240731145213.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240731145139.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240731145112.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240731145016.png",
+    "99 - Meta/02 - Attachments/Pasted image 20240731144939.png",
     "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md",
-    "01 - Projects/014 - Crypto Grind/014 - Crypto Grind.md",
-    "01 - Projects/014 - Crypto Grind/202404090255 What is a crypto audit?.md",
-    "01 - Projects/014 - Crypto Grind/202404252246 Blockchain Zero Knowledge.md",
-    "01 - Projects/014 - Crypto Grind/202404300248 Sybil Resistance.md",
-    "01 - Projects/014 - Crypto Grind/202405230259 Websites for crypto bounties.md",
-    "01 - Projects/014 - Crypto Grind/202405231153 Ethernaut.md",
+    "06 - Daily/20240728.md",
+    "04 - Permanent/043 - Personal/202407141754 Resume.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404221935 SQL Introduction.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230842 Full Join.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Outer Join.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404221930 Relational vs Non relational.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/202405092306 Ethnography.md",
+    "02 - Areas/023 - Semester/Intro to Anthropology/Intro to Anthropology.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230428 DQL.md",
+    "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md",
     "01 - Projects/014 - Crypto Grind/Audit Submissions",
     "04 - Permanent/041 - Canvas/202404261002 Crypto Audit Map.canvas",
     "99 - Meta/02 - Attachments/Pasted image 20240527101301.png",
@@ -265,11 +319,6 @@
     "99 - Meta/01 - Scripts",
     "99 - Meta/02 - Attachments/Pasted image 20240416120142.png",
     "99 - Meta/02 - Attachments/Pasted image 20240416120148.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240509232157.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240509232122.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240509231547.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240509231520.png",
-    "99 - Meta/02 - Attachments/Pasted image 20240509231517.png",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_9.pdf",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_9 2.pdf",
     "02 - Areas/023 - Semester/Intro to Anthropology/Anthro Slides/LECTURE_12 2.docx",

@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "202408261351 Shray Split",
+      "path": "202408261351 Shray Split.md"
+    },
+    {
+      "basename": "20240826",
+      "path": "06 - Daily/20240826.md"
+    },
+    {
+      "basename": "20240820",
+      "path": "06 - Daily/20240820.md"
+    },
+    {
+      "basename": "202408190751 BTB split",
+      "path": "202408190751 BTB split.md"
+    },
+    {
+      "basename": "20240818",
+      "path": "06 - Daily/20240818.md"
+    },
+    {
+      "basename": "20240814",
+      "path": "06 - Daily/20240814.md"
+    },
+    {
+      "basename": "20240809",
+      "path": "06 - Daily/20240809.md"
+    },
+    {
+      "basename": "202408030024 Basin Audit",
+      "path": "01 - Projects/014 - Crypto Grind/Audit Submissions/202408030024 Basin Audit.md"
+    },
+    {
+      "basename": "202408030041 Basin Audit writeup",
+      "path": "01 - Projects/014 - Crypto Grind/Audit Submissions/202408030041 Basin Audit writeup.md"
+    },
+    {
+      "basename": "20240803",
+      "path": "06 - Daily/20240803.md"
+    },
+    {
+      "basename": "202404081046 Emerald Nuzlocke",
+      "path": "02 - Areas/024 - Games/Emerald Nuzlocke/202404081046 Emerald Nuzlocke.md"
+    },
+    {
+      "basename": "20240802",
+      "path": "06 - Daily/20240802.md"
+    },
+    {
+      "basename": "20240801",
+      "path": "06 - Daily/20240801.md"
+    },
+    {
+      "basename": "20240731",
+      "path": "06 - Daily/20240731.md"
+    },
+    {
+      "basename": "202404090300 CryptoZombies",
+      "path": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
+    },
+    {
+      "basename": "20240728",
+      "path": "06 - Daily/20240728.md"
+    },
+    {
       "basename": "202407141754 Resume",
       "path": "04 - Permanent/043 - Personal/202407141754 Resume.md"
     },
     {
-      "basename": "202407050959 Dynamic Programming",
-      "path": "02 - Areas/021 - Algorithms/202407050959 Dynamic Programming.md"
-    },
-    {
       "basename": "202404221935 SQL Introduction",
       "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221935 SQL Introduction.md"
+    },
+    {
+      "basename": "202404230842 Full Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230842 Full Join.md"
+    },
+    {
+      "basename": "202404230839 Outer Join",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230839 Outer Join.md"
+    },
+    {
+      "basename": "202404221930 Relational vs Non relational",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221930 Relational vs Non relational.md"
+    },
+    {
+      "basename": "202405092306 Ethnography",
+      "path": "02 - Areas/023 - Semester/Intro to Anthropology/202405092306 Ethnography.md"
+    },
+    {
+      "basename": "Intro to Anthropology",
+      "path": "02 - Areas/023 - Semester/Intro to Anthropology/Intro to Anthropology.md"
+    },
+    {
+      "basename": "202404230428 DQL",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230428 DQL.md"
+    },
+    {
+      "basename": "202404230440 Primary key",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md"
+    },
+    {
+      "basename": "202404221933 Relational DB",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221933 Relational DB.md"
+    },
+    {
+      "basename": "DBMS",
+      "path": "02 - Areas/022 - CS Fundamentals/DBMS/DBMS.md"
+    },
+    {
+      "basename": "202407050959 Dynamic Programming",
+      "path": "02 - Areas/021 - Algorithms/202407050959 Dynamic Programming.md"
     },
     {
       "basename": "202004071031 Powerlifting",
@@ -45,20 +145,8 @@
       "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230427 DDL.md"
     },
     {
-      "basename": "202404221933 Relational DB",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221933 Relational DB.md"
-    },
-    {
       "basename": "202404221934 Non Relational DB",
       "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221934 Non Relational DB.md"
-    },
-    {
-      "basename": "202404221930 Relational vs Non relational",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404221930 Relational vs Non relational.md"
-    },
-    {
-      "basename": "DBMS",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/DBMS.md"
     },
     {
       "basename": "20240715",
@@ -71,10 +159,6 @@
     {
       "basename": "202404071832 Solidity and Intro to Crypto",
       "path": "07 - Archives/072 - Old Notes/Notion/202404071832 Solidity and Intro to Crypto.md"
-    },
-    {
-      "basename": "202404090300 CryptoZombies",
-      "path": "01 - Projects/014 - Crypto Grind/Solidity/202404090300 CryptoZombies.md"
     },
     {
       "basename": "014 - Crypto Grind",
@@ -115,86 +199,6 @@
     {
       "basename": "20240701",
       "path": "06 - Daily/20240701.md"
-    },
-    {
-      "basename": "20240630",
-      "path": "06 - Daily/20240630.md"
-    },
-    {
-      "basename": "202404230440 Primary key",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230440 Primary key.md"
-    },
-    {
-      "basename": "202404230429 DML",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230429 DML.md"
-    },
-    {
-      "basename": "202404230446 Constraints",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230446 Constraints.md"
-    },
-    {
-      "basename": "202404230430 DCL",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230430 DCL.md"
-    },
-    {
-      "basename": "202404231019 Unions",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404231019 Unions.md"
-    },
-    {
-      "basename": "202404230441 Foreign key",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230441 Foreign key.md"
-    },
-    {
-      "basename": "202404230832 Joins in DBMS",
-      "path": "02 - Areas/022 - CS Fundamentals/DBMS/202404230832 Joins in DBMS.md"
-    },
-    {
-      "basename": "20240619",
-      "path": "06 - Daily/20240619.md"
-    },
-    {
-      "basename": "20240626",
-      "path": "06 - Daily/20240626.md"
-    },
-    {
-      "basename": "202405161457 SEO Articles",
-      "path": "01 - Projects/012 - Business/202405161457 SEO Articles.md"
-    },
-    {
-      "basename": "20240617",
-      "path": "06 - Daily/20240617.md"
-    },
-    {
-      "basename": "20240616",
-      "path": "06 - Daily/20240616.md"
-    },
-    {
-      "basename": "20240614",
-      "path": "06 - Daily/20240614.md"
-    },
-    {
-      "basename": "202406021105 Leetcode Solving Session 2",
-      "path": "01 - Projects/011 - Leetcode Solving Sessions/202406021105 Leetcode Solving Session 2.md"
-    },
-    {
-      "basename": "20240605",
-      "path": "06 - Daily/20240605.md"
-    },
-    {
-      "basename": "202404140439 Reading List",
-      "path": "04 - Permanent/202404140439 Reading List.md"
-    },
-    {
-      "basename": "202406061113 Leetcode solving session 4",
-      "path": "01 - Projects/011 - Leetcode Solving Sessions/202406061113 Leetcode solving session 4.md"
-    },
-    {
-      "basename": "20240613",
-      "path": "06 - Daily/20240613.md"
-    },
-    {
-      "basename": "202404180746 Smart contract course",
-      "path": "01 - Projects/014 - Crypto Grind/Solidity/202404180746 Smart contract course.md"
     }
   ],
   "omittedPaths": [],
